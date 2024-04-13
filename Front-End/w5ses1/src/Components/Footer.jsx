@@ -9,7 +9,7 @@ function Footer() {
   return (
 
     <div className="">
-    <div className="w-screen overflow-hidden bg-black text-white pt-12 pl-2 sm:pl-12  items-center justify-center flex flex-col">
+    <div className="w-full overflow-hidden bg-black text-white pt-12 pl-2 pr-2 sm:pl-8  items-center justify-center flex flex-col">
       
       <div className="flex sm:flex-row flex-col">
         <div className="sm:mr-24">

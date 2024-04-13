@@ -7,16 +7,16 @@ const FirstCom = () => {
   return (
     <div className="mx-auto max-w-screen-xl">
       <div className="flex flex-col items-center justify-center sm:flex-row">
-        <div className="text-center sm:text-left">
+        <div className="text-center">
           <h1 className="text-6xl font-bold">
             <span className="text-9xl font-bold">S</span>tay Curious
           </h1>
           <p className="text-2xl mt-8 sm:text-center sm:pl-0 pl-12 text-left font-bold">
-            Discover stories, thinking, and expertise from <br /> writers on any topic.
+            Discover stories, thinking, and expertise from <br/> writers on any topic.
           </p>
           <Link to='/articles'>
             <button className="bg-indigo-600 mt-12 rounded-xl w-56 h-12 font-bold text-lg text-white">
-              Explore Projects
+              Explore Articles
             </button>
           </Link>
         </div>

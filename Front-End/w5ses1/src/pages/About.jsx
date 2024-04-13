@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="bg-gray-900 text-white">
       <div className="sm:pl-12 pl-2">
-        <div className="sm:text-7xl text-3xl">
+        <div className="sm:text-7xl text-3xl pt-8">
           Everyone has <br /> a story to tell.
         </div>
         <div className="sm:pr-96 pr-0">
